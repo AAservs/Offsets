@@ -56,3 +56,5 @@ AIMPITCHMIN=0x1B84
 AIMPITCHMAX=0x1B88
 ProjectileSpeeed=0x1AD0
 ProjectileGravityScalee=0x1E68
+CameraLocation=0x160
+CameraRotation=0x170
